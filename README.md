@@ -25,5 +25,36 @@ Antes de executar este projeto, você precisa ter instalado o seguinte:
 - [Maven](caso não tenha o Maven configurado, você pode configurar diretamente o Maven no IntelliJ)
 - [IDE de sua preferência](https://www.jetbrains.com/idea/) (Recomendamos o IntelliJ IDEA)
 
+- ### Executando a API
+
+Siga os passos abaixo para executar a API localmente:
+
+1. **Clone o repositório**:
+2. **Acesse o diretório do projeto**:
+3. **Construir o Projeto**:
+   Use Maven para compilar o projeto:
+4. **Executar a API: Para rodar a aplicação
+- **Endpoints
+- Abaixo estão os principais endpoints da API:
+
+GET /clientes
+Retorna todos os clientes cadastrados.
+
+POST /clientes
+Cria um novo cliente. Exemplo de body:
+
+GET /clientes/{id}
+Retorna um cliente pelo ID.
+
+PUT /clientes/{id}
+Atualiza as informações de um cliente.
+
+DELETE /clientes/{id}
+Deleta um cliente.
+- **
+- **S
+- **
+
+
 
 
