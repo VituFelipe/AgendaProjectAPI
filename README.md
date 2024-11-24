@@ -38,18 +38,27 @@ Siga os passos abaixo para executar a API localmente:
  Abaixo estão os principais endpoints da API:
 
 - GET /clientes
+
 Retorna todos os clientes cadastrados.
 
+
 - POST /clientes
-Cria um novo cliente. Exemplo de body:
+
+Cria um novo cliente. 
+
 
 - GET /clientes/{id}
+
 Retorna um cliente pelo ID.
 
+
 - PUT /clientes/{id}
+
 Atualiza as informações de um cliente.
 
+
 - DELETE /clientes/{id}
+
 Deleta um cliente.
 
 
