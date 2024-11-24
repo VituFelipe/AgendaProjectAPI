@@ -29,11 +29,11 @@ Antes de executar este projeto, você precisa ter instalado o seguinte:
 
 Siga os passos abaixo para executar a API localmente:
 
-1. **Clone o repositório**:
-2. **Acesse o diretório do projeto**:
-3. **Construir o Projeto**:
-   Use Maven para compilar o projeto:
-4. Executar a API: Para rodar a aplicação
+1. **Clone o repositório**
+2. **Acesse o diretório do projeto**
+3. **Construir o Projeto**
+   Use Maven para compilar o projeto
+4. **Executar a API: Para rodar a aplicação**
 
 - ENDPOINTS:
  Abaixo estão os principais endpoints da API:
