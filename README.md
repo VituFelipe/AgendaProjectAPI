@@ -34,26 +34,24 @@ Siga os passos abaixo para executar a API localmente:
 3. **Construir o Projeto**:
    Use Maven para compilar o projeto:
 4. **Executar a API: Para rodar a aplicação
-- **Endpoints
-- Abaixo estão os principais endpoints da API:
+- ENDPOINTS:
+ Abaixo estão os principais endpoints da API:
 
-GET /clientes
+- GET /clientes
 Retorna todos os clientes cadastrados.
 
-POST /clientes
+- POST /clientes
 Cria um novo cliente. Exemplo de body:
 
-GET /clientes/{id}
+- GET /clientes/{id}
 Retorna um cliente pelo ID.
 
-PUT /clientes/{id}
+- PUT /clientes/{id}
 Atualiza as informações de um cliente.
 
-DELETE /clientes/{id}
+- DELETE /clientes/{id}
 Deleta um cliente.
-- **
-- **S
-- **
+
 
 
 
