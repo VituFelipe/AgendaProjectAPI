@@ -25,7 +25,7 @@ Antes de executar este projeto, você precisa ter instalado o seguinte:
 - [Maven](caso não tenha o Maven configurado, você pode configurar diretamente o Maven no IntelliJ)
 - [IDE de sua preferência](https://www.jetbrains.com/idea/) (Recomendamos o IntelliJ IDEA)
 
-- ### Executando a API
+## Executando a API
 
 Siga os passos abaixo para executar a API localmente:
 
